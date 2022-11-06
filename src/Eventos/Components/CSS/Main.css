@@ -1,0 +1,20 @@
+.EventosApi{
+    color: white;
+    text-decoration: none;
+}
+.divEventos{
+    background-color: rgb(121, 19, 19);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 2rem;
+}
+.divApiEventos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.divEventos:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
